@@ -1,0 +1,15 @@
+﻿animate scores tallying in level splash screens, lower background music level for it, and add sizzling sound effect for score tabulation
+animate player object leaving the screen, rather than just dissappearing, maybe have the ship speed off to the right
+add my logo splash screen
+add sound effect for achievement bubble pop up
+add between level score animation page.  tally stage score, show pigskilled/pork bellies earned for that stage, show highest multipliers for that stage (pig and avoid) and tally stage score into total score
+investigate hover button glitch; possibly remove event listeners
+fade in and fade out on info bubbles on upgrade screen
+explode and fade on explosions rather than explode and implode (with tweens)
+set pretty low speed cap on all pigs and add damage multiplier that increases expon. each level
+change general motion path of iron pigs, maybe like quarter circles, ie like knights.
+make package style directory structure for all game classes, ie pigs.menuItems.MenuButton where menuitems is a folder with all menu related stuff.
+start making personal library of my own code snippets, ie graphics effects library and motion library.
+limit speed of pigs and set it up so pigs give more damage at later levels.
+fix bouncing buttons bugs
+particle man platformer game
