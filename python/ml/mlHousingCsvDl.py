@@ -1,3 +1,6 @@
+#most of this code is build using examples
+#from the Geron machine learning book
+
 import os
 import tarfile
 import urllib.request
